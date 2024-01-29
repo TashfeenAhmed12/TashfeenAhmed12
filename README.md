@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tashfeen Ahmed
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Tashfeen Ahmed
 ======================================================================================================================================
 
 I'm passionate about turning complex data into clear insights and love exploring machine learning for predictions and decisions. Skilled in Python, R, and SQL, I'm adept at data analysis and statistical concepts, ensuring accuracy and reliability. Constantly learning about AI, machine learning, and data science. Explore my GitHub for a dynamic showcase of data science projects!
